@@ -1,9 +1,9 @@
 <scheme name="Bright_Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-10-29T13:00:15</property>
+    <property name="created">2024-02-09T19:37:23</property>
     <property name="ide">GoLand</property>
-    <property name="ideVersion">2023.1.0.0</property>
-    <property name="modified">2023-10-29T13:00:28</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-09T19:37:34</property>
     <property name="originalScheme">Bright_Dark</property>
   </metaInfo>
   <colors>
@@ -213,7 +213,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="8056ff" />
+        <option name="FOREGROUND" value="ff40e1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -243,7 +243,7 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffea00" />
+        <option name="FOREGROUND" value="34b1ff" />
       </value>
     </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
@@ -369,11 +369,6 @@
     <option name="GO_BUILTIN_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ff8d2f" />
-      </value>
-    </option>
-    <option name="GO_EXPORTED_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffea00" />
       </value>
     </option>
     <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
